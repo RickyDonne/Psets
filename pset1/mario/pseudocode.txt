@@ -1,0 +1,6 @@
+Step1: Ask user for height.
+Step2: If height is between 1 and 8, proceed to next step else go back to step 1.
+Step3: Start a for loop(i) which prints space till (height - 1)
+Step4: For every row print # till (height - i)
+Step5: print a new line at the end of the loop
+Step6: Repeat till the last line has same number of # as the height entered.
